@@ -3,7 +3,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #dbe6e6;
+  background-color: #9f0000;
   overflow: hidden;
 }
 
@@ -14,7 +14,7 @@
   text-transform: uppercase;
   font-size: 120px;
   text-align: center;
-  color: #ffc5a2;
+  color: #000;
   opacity: 0;
   left: 50%;
   top: 50%;
@@ -47,7 +47,7 @@
   position: relative;
   font-family: "Voltaire", sans-serif;
   text-transform: uppercase;
-  color: #ffa873;
+  color: #000;
   font-size: 12px;
   letter-spacing: 2px;
   text-align: center;
@@ -57,7 +57,7 @@
 #distValue {
   position: relative;
   text-transform: uppercase;
-  color: #dc5f45;
+  color: #000;
   font-size: 40px;
   font-family: "Voltaire";
   text-align: center;
@@ -70,7 +70,7 @@
   bottom: 0;
   margin-bottom: 20px;
   font-family: "Voltaire", sans-serif;
-  color: #544027;
+  color: #f44336;
   font-size: 12px;
   letter-spacing: 0.5px;
   text-transform: uppercase;
@@ -82,11 +82,11 @@
 }
 
 #credits a {
-  color: #544027;
+  color: #343434;
 }
 
 #credits a:hover {
-  color: #dc5f45;
+  color: #1c1c1c;
 }
 
 #instructions {
@@ -96,7 +96,7 @@
   margin: auto;
   margin-bottom: 50px;
   font-family: "Voltaire", sans-serif;
-  color: #dc5f45;
+  color: ##004aad;
   font-size: 16px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -108,5 +108,5 @@
 }
 
 .lightInstructions {
-  color: #5f9042;
+  color: #d67626;
 }
