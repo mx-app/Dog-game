@@ -46,12 +46,12 @@ var hero;
 
 // Materials
 var blackMat = new THREE.MeshPhongMaterial({
-    color: 0x100707,
+    color: 0x343434,
     shading:THREE.FlatShading,
   });
   
 var brownMat = new THREE.MeshPhongMaterial({
-    color: 0xb44b39,
+    color: 0x1c1c1c,
     shininess:0,
     shading:THREE.FlatShading,
   });
@@ -63,18 +63,18 @@ var greenMat = new THREE.MeshPhongMaterial({
   });
   
   var pinkMat = new THREE.MeshPhongMaterial({
-    color: 0xdc5f45,//0xb43b29,//0xff5b49,
+    color: 0xb43b29,//0xb43b29,//0xff5b49,
     shininess:0,
     shading:THREE.FlatShading,
   });
   
   var lightBrownMat = new THREE.MeshPhongMaterial({
-    color: 0xe07a57,
+    color: 0xff5b49,
     shading:THREE.FlatShading,
   });
   
   var whiteMat = new THREE.MeshPhongMaterial({
-    color: 0xa49789, 
+    color: 0x004aad, 
     shading:THREE.FlatShading,
   });
   var skinMat = new THREE.MeshPhongMaterial({
