@@ -47,8 +47,8 @@
   position: relative;
   font-family: "Voltaire", sans-serif;
   text-transform: uppercase;
-  color: #000;
-  font-size: 12px;
+  color: #fff;
+  font-size: 20px;
   letter-spacing: 2px;
   text-align: center;
   margin-bottom: 5px;
@@ -57,7 +57,7 @@
 #distValue {
   position: relative;
   text-transform: uppercase;
-  color: #000;
+  color: #fff;
   font-size: 40px;
   font-family: "Voltaire";
   text-align: center;
