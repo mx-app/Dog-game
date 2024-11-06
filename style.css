@@ -48,19 +48,21 @@
   font-family: "Voltaire", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  font-size: 80px;
+  font-size: 30px;
   letter-spacing: 2px;
   text-align: center;
   margin-bottom: 5px;
+  text-shadow: 4px 4px 4px #aaa;
 }
 
 #distValue {
   position: relative;
   text-transform: uppercase;
   color: #fff;
-  font-size: 100px;
+  font-size: 60px;
   font-family: "Voltaire";
   text-align: center;
+  text-shadow: 4px 4px 4px #aaa;
 }
 
 #credits {
